@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hassim</h1>
 
 <h1 align="center">Description</h1>
-<h1 align="center">Aspiring Full Stack Web Developer</h1>
+<h3 align="center">Aspiring Full Stack Web Developer</h3>
 
 <h3 align="center">Hello! My name is Mohammad Hassim I'm Aspiring Full Stack Developr & I enjoy creating things that live on the internet. I'm passionate Developer, with strong administrative & communicatation skills, good attention detail & the ability to write efficient code.</h3>
 
