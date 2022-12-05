@@ -53,8 +53,7 @@
 <a href="https://code-with-hashim.github.io" target="blank"><img align="center" src="https://i.ibb.co/n3hyrdr/icons8-portfolio-50.png" alt="https://code-with-hashim.github.io" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-hashim&show_icons=true&locale=en&layout=compact" alt="code-with-hashim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-hashim&show_icons=true&locale=en" alt="code-with-hashim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-hashim&show_icons=true&bgColor=#000" alt="code-with-hashim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-hashim&" alt="code-with-hashim" /></p>
