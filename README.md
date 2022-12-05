@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on my Portfolio [Code-with-Hashim](https://code-with-hashim.github.io)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cCvC9yX8rkQUpGcklFuD0txvX56Finws/view?usp=sharing](https://drive.google.com/file/d/1cCvC9yX8rkQUpGcklFuD0txvX56Finws/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [https://code-with-hashim.github.io/](https://code-with-hashim.github.io/)
 
@@ -21,7 +21,6 @@
 
 - 📫 How to reach me **hashim.khan83029@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cCvC9yX8rkQUpGcklFuD0txvX56Finws/view?usp=sharing](https://drive.google.com/file/d/1cCvC9yX8rkQUpGcklFuD0txvX56Finws/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex;">
