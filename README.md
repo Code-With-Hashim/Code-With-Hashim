@@ -49,8 +49,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammad-hassim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-hassim/" height="30" width="40" /></a>
-<a href="https://code-with-hashim.github.io" target="blank"><img align="center" src="https://i.ibb.co/n3hyrdr/icons8-portfolio-50.png" alt="https://code-with-hashim.github.io" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-hassim/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/mohammad-hassim/" /></a>
+<a href="https://code-with-hashim.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="https://code-with-hashim.github.io" /></a>
 </p>
 
 
